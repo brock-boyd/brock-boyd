@@ -5,7 +5,7 @@ My name is Brock Boyd. I am currently work as a credit analyst for a bank and ha
 I currently have a self-taught background in SQL and am now moving my studies to learn more about Python and other languages. I'm interesting in learning more how I
 can apply code to data analysis and maximizing efficiencies in day to day life. 
 
-I'm always looking to learn something new. I'm the kind of person that isn't satisfied knowing what something does, I strive to know why.
+I'm always looking to learn something new. I'm the kind of person that isn't satisfied knowing the what, I strive to know the why.
 
 Feel free to connect with me on other platforms!
 
